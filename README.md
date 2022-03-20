@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thiagobm2022
+- 👀 I’m interested in Nature, Music and People
+- 🌱 I’m currently learning front end Web and App Development
+- 💞️ I’m looking to collaborate on New Projects and problem sovolving chalenges
